@@ -1,3 +1,3 @@
 # Kaggle
 
-This files are for Kaggle prediction.
+These files are for Kaggle prediction.
